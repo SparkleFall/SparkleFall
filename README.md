@@ -17,5 +17,5 @@
 - | -  SQL db architecture creation, management, and development
 
   [] -- Other -- []
-- | - sometimes makes tools or cli apps with dotnet 8+
 - | - 9 months in pc repairing and maintaining
+- | - WPF & MAUI dev
