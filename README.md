@@ -7,9 +7,9 @@
 - | - ASP.net Core REST web app
 - | - ASP.net Core entity fm + identity fm
 
-  [] -- JS & similar -- []
+  [] -- JS & similar (CSS, etc.) -- []
 
-- | - react.js + uikit
+- | - react.js + uikit 
 - | - advanced jwt dev
 
   [] -- SQL -- []
